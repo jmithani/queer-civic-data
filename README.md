@@ -1,6 +1,6 @@
-# Queer Communities, Civic Tech, and Open Data 
+# Queer Communities 🌈 Civic Tech 🖥 && Open Data 📊
 
-**Find this page!! bit.ly/queercivicdata**
+✨ **Find this page!! [bit.ly/queercivicdata](bit.ly/queercivicdata)** ✨
 
 How does open data and civic technology intersect with queer identities and concerns? How can civic tech enrich the LGBTQ+ life while respecting the privacy and vulnerability of queer populations? Which kinds of data can be exploited to help or harm queer people? What sort of guidelines could be put in place to prevent that from happening? We will discuss current open data sets, possible public data that could be released, and brainstorm civic technology projects to specifically address the concerns of the LGBTQ+ community. 
 
