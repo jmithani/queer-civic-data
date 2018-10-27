@@ -22,7 +22,20 @@ Part III: Building What We Want
 Introduce ourselves with our name, pronouns, and either an idea for an open source project or what drew them to attend this session.
 
 >One of the wonderful things about civic technology is that no one really knows what it means....[W]e can begin to identify four major intentions of civic apps: to inform, to persuade, to provide access, or to change the way our democracy works. These correspond to four genres of apps: news, propaganda, access, and system plumbing. Civic apps either promote communication or action. Additionally, civic apps are either “ends” or “means” apps. For “ends” apps, people using the app is the point. In “means” apps, people using the app is good if it helps achieve some other end.
+
+[!Civic apps matrix](https://raw.githubusercontent.com/jmithani/queer-civic-data/master/images/civic_apps_matrix.png)
+
 Forest Gregg, ["What Are Civic Apps For?"](https://datamade.us/blog/what-are-civic-apps-for/) (2014)
 
-Nonprofit [Code For America](https://codeforamerica.org) has put together a list of [Civic Tech Patterns](https://github.com/codeforamerica/civic-tech-patterns)—and, just as important, Anti-Patterns.
+Nonprofit [Code For America](https://codeforamerica.org) has put together a list of [Civic Tech Patterns](https://github.com/codeforamerica/civic-tech-patterns)—and, just as important, Anti-Patterns. [Code For All](https://codeforall.org/) has made a crowd-sourced [Civic Patterns](http://civicpatterns.org/) wiki. 
+
+Here are a patterns from those sites that are particularly important in designing civic apps for the LGBTQ+ community:
+- **[Build with, not for.](http://civicpatterns.org/patterns/build-with-not-for/). When building technological solutions for a community, invite the community to participate actively in a manner of co-creation so as to ensure the right needs are being met.**
+- [Don't reinvent the wheel.](http://civicpatterns.org/patterns/dont-reinvent-the-wheel/)
+- [Don't only focus on the negative.](https://github.com/codeforamerica/civic-tech-patterns#focus-on-the-negative)
+- [Don't wait, scrap!](http://civicpatterns.org/patterns/dont-wait-scrape/) Don't hang around waiting for governments to release open data if you can get what you need some other way (e.g. screen scraping). 
+- [Keep the world informed.](http://civicpatterns.org/patterns/keep-the-world-informed/) Share your experiences with the world as you're building. Help the community learn from you so that you can learn from them. 
+- [Measure the right things.](http://civicpatterns.org/patterns/measure-the-right-things/) Gauge your success by counting a metric. Website visitors is not a good metric. 
+- [Make your design as simple as possible.](http://civicpatterns.org/patterns/as-simple-as-possible/)
+- [Don't just make government score cards.](http://civicpatterns.org/patterns/no-score-card/). Make places that allow people to act on that information. 
 
