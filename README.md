@@ -7,17 +7,19 @@ How does open data and civic technology intersect with queer identities and conc
 The goal of this session is threefold: start a conversation in the civic technology/open data space centered on queer experiences, proactively identify threats presented by open data, and to brainstorm possible open source projects to benefit LGBTQ+ communities around the world. 
 
 ## Schedule
-Part I: Situating Ourselves
+Flexible, but present so people trying to go to multiple sessions can plan their time.
+
+**Part I: Situating Ourselves** (15-20 minutes)
 - Introductions
 - What is civic tech? What is open data?
 - Civic tech design patterns 
 
-Part II: Queer Data Dreams
+**Part II: Queer Data Dreams** (10 minutes)
 - What data is available?
 - What data do we wish were available?
 - Precarity, what do we not want to be open?
 
-Part III: Building What We Want 
+**Part III: Building What We Want** (30 minutes)
 - Breakout design groups
 - Sharing with the group
 
