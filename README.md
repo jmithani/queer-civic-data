@@ -36,6 +36,15 @@ Here are a patterns from those sites that are particularly important in designin
 - [Keep the world informed.](http://civicpatterns.org/patterns/keep-the-world-informed/) Share your experiences with the world as you're building. Help the community learn from you so that you can learn from them. 
 - [Measure the right things.](http://civicpatterns.org/patterns/measure-the-right-things/) Gauge your success by counting a metric. Website visitors is not a good metric. 
 - [Make your design as simple as possible.](http://civicpatterns.org/patterns/as-simple-as-possible/)
-- [Don't just make government score cards.](http://civicpatterns.org/patterns/no-score-card/). Make places that allow people to act on that information. 
+- [Don't just make government score cards.](http://civicpatterns.org/patterns/no-score-card/) Make places that allow people to act on that information. 
 
-[Examples here.](Example_civic_apps.md)
+### [Examples here.](Example_civic_apps.md)
+
+
+## Part II: Queer Data Dreams
+Break up into groups and discuss one of the bullet points below. 
+
+- What sort of data to we have access to already, via crowdsourcing or open data sets?
+- Who collected this data? Is it considered an accurate sample? Is it "complete"? How is authority struggled with and established?
+- What sort of data should *not* be collected? Why? How is this determined?
+- How can data on LGBTQ+ populations be weaponized? What barriers can be put in place to deter abuse?
