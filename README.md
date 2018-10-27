@@ -41,12 +41,16 @@ Here are a patterns from those sites that are particularly important in designin
 ### Example: Crowdsourcing
 
 **[My Building Doesn't Recycle!](http://mybuildingdoesntrecycle.com/)**
+
 My Building Doesn’t Recycle! is a web app that allows multi-unit renters (renters in buildings with 5 or more units) to report that they do not have recycling in their building. This site was created by Claire Micklin, Ben Wilhelm, and Alex Kahn at Open Government Hack Night.
+
 ![Landing page map of My Building Doesn't Recycle!](/images/recycling.png)
 
 **[Refuge Restrooms](https://www.refugerestrooms.org/)**
+
 >Refuge Restrooms is a web application that seeks to provide safe restroom access for transgender, intersex, and gender nonconforming individuals. Users can search for restrooms by proximity to a search location, add new restroom listings, as well as comment and rate existing listings.
 >We’re trans led and seek to create a community focused not only on finding existing safe restroom access, but also advocating for transgender, intersex, and gender nonconforming people’s safety.
-![Refuge Restrooms homepage](/images/refuge_restrooms1.png)
-![Refuge Restrooms around Ravensbourne University, London](/images/refuge_restrooms2.png)
 
+![Refuge Restrooms homepage](/images/refuge_restrooms1.png)
+
+![Refuge Restrooms around Ravensbourne University, London](/images/refuge_restrooms2.png)
