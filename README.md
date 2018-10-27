@@ -22,7 +22,9 @@ Part III: Building What We Want
 Introduce ourselves with our name, pronouns, and **what civic tech (or open data!) means to you.**
 
 >One of the wonderful things about civic technology is that no one really knows what it means....[W]e can begin to identify four major intentions of civic apps: to inform, to persuade, to provide access, or to change the way our democracy works. These correspond to four genres of apps: news, propaganda, access, and system plumbing. Civic apps either promote communication or action. Additionally, civic apps are either “ends” or “means” apps. For “ends” apps, people using the app is the point. In “means” apps, people using the app is good if it helps achieve some other end.
-Forest Gregg, ["What Are Civic Apps For?"](https://datamade.us/blog/what-are-civic-apps-for/) (2014)
+
+— Forest Gregg, ["What Are Civic Apps For?"](https://datamade.us/blog/what-are-civic-apps-for/) (2014)
+![Civic apps matrix](/images/civic_apps_matrix.png)
 
 Nonprofit [Code For America](https://codeforamerica.org) has put together a list of [Civic Tech Patterns](https://github.com/codeforamerica/civic-tech-patterns)—and, just as important, Anti-Patterns. [Code For All](https://codeforall.org/) has made a crowd-sourced [Civic Patterns](http://civicpatterns.org/) wiki. 
 
