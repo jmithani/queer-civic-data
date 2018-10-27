@@ -42,9 +42,9 @@ Here are a patterns from those sites that are particularly important in designin
 
 **[My Building Doesn't Recycle!](http://mybuildingdoesntrecycle.com/)**
 
-My Building Doesn’t Recycle! is a web app that allows multi-unit renters (renters in buildings with 5 or more units) to report that they do not have recycling in their building. This site was created by Claire Micklin, Ben Wilhelm, and Alex Kahn at Open Government Hack Night.
+>My Building Doesn’t Recycle! is a web app that allows multi-unit renters (renters in buildings with 5 or more units) to report that they do not have recycling in their building. This site was created by Claire Micklin, Ben Wilhelm, and Alex Kahn at Open Government Hack Night.
 
-![Landing page map of My Building Doesn't Recycle!](/images/recycling.png)
+![Landing page map of My Building Doesn't Recycle!](/images/recylcing.png)
 
 **[Refuge Restrooms](https://www.refugerestrooms.org/)**
 
