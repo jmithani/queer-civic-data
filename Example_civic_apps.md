@@ -53,4 +53,4 @@
 
 >The CityKey serves as a four-in-one card by serving as a valid, government-issued ID card, your Chicago Public Library card, Ventra card and pharmaceutical discount card. Additionally, the CityKey provides cardholders with discounts to participating museums, theaters, sporting events, restaurants, and retail stores and businesses across Chicago.
 
->As part of the CityKey program, CityKey cardholders will be able to access a pharmaceutical discount through a pharmacy benefit management program called the Chicago Rx Card. The Chicago Rx Card will provide discounts on generic and name brand medications and is a free and easy way to save up to 80% on prescripti
+>As part of the CityKey program, CityKey cardholders will be able to access a pharmaceutical discount through a pharmacy benefit management program called the Chicago Rx Card. The Chicago Rx Card will provide discounts on generic and name brand medications and is a free and easy way to save up to 80% on prescription drugs and also provides discounts on dental, vision, veterinarian, and lab and diabetes supplies/equipment.
